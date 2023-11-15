@@ -1,0 +1,24 @@
+UTS Pemrograman Web
+-----------------------------
+Nama  : Fajri Yanuar Shiddiq Juanda
+NIM   : 22416255201102
+Kelas : IF22C
+-----------------------------
+Soal dan Jawaban UTS PEMWEB (1 dan 2)
+--------------------------------------
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawaban : Sebuah framework dapat diibaratkan sebagai struktur dasar atau kerangka kerja yang menyediakan pedoman, perkakas, dan susunan untuk mempermudah proses pembangunan suatu hal.
+
+2.1 Sebutkan tema proyek yang sedang digarap!
+Jawaban: Tema proyek yang sedang digarap adalah tentang Apotek dengan nama sistem yang kita buat adalah Sistem Informasi Apotek Mitra galuh (SIAGA)
+
+2.2 Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+- Fauzan Azhar : front-end 
+- Fajri Yanuar Shiddiq Juanda : back-end 
+- Fadel Raihan Asshiddiqie : laporan/desain uml
+2.3 Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+Permasalahan : Apotek yang kita lakukan reset sudah memiliki sistem tapi tidak memili fitur allert untuk obat yang akan expired, serta laporan keuangan pada sistem yang lama tidak dapat berjalan, sistem yang dimiliki juga berbasis aplikasi  jadi memiliki ketergantungan pada device yang digunakan.
+
+Solusi : Kita akan membuat sistem alert yang akan memberikan peringatan terhadapa obat yang akan kadaluarsa sebelum h-60 dari tgl expirde, membuat seistem laporan keuangan diantaranya laporan hutang apotek terhadap supplier yang sudah dibayar berkurang serta perhitungan laba rugi, kita membuat sistem berbasis webs app yang memiliki kelebihan jika suatu saat ada kendala pada komputer apotek, maka sistem informasi apotek masih bisa dibuka melalui hp atau tablet. 
